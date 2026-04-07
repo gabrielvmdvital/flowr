@@ -1,4 +1,5 @@
-﻿FLOWR a Framework for Logical Organization of Work Resources
+﻿# FLOWR 
+### Framework for Logical Organization of Work Resources
 
 
 **FLOWR** is an agile management ecosystem designed to orchestrate the complete software development lifecycle. It goes beyond a simple Kanban board by integrating high-level engineering concepts with a core focus on **Software Quality (QA)** and **Governance**.
