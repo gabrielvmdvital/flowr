@@ -8,8 +8,8 @@ The project aims to provide a structured environment where Product Owners, Devel
 
 Key Concepts:
 
-Hierarchical Management: Seamless flow between Projects, Epics, Sprints, and Tasks.
+  - Hierarchical Management: Seamless flow between Projects, Epics, Sprints, and Tasks.
 
-Role-Based Governance: Built-in support for stakeholders like Project Managers, Scrum Masters, POs, Devs, and QAs.
+  - Role-Based Governance: Built-in support for stakeholders like Project Managers, Scrum Masters, POs, Devs, and QAs.
 
-Quality-First Workflow: Enforced state transitions (New ➔ In Progress ➔ QA ➔ Ready for Prod ➔ Done).
+  - Quality-First Workflow: Enforced state transitions (New ➔ In Progress ➔ QA ➔ Ready for Prod ➔ Done).
